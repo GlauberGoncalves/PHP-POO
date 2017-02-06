@@ -9,3 +9,5 @@ Aula 03 - Visibilidade no PHP - public, private e protected.
 Aula 04 - Trabalhei com metodos especiais no php
 
 Aula 05 - Continuação dos metodos especiais e trabalhando com metodos gets sets e construct
+
+Aula 06 - Exercício prático com a classe ContaBanco onde foram exercitados os principais conceitos de visibilidade e metodos especiais
